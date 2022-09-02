@@ -17,6 +17,12 @@
   <a href="https://dougperon.github.io/">PORTIFÓLIO EM CONTRUÇÃO AQUI!</a>
 </p>
 <p align='center'>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=DougPeron&show_icons=true&theme=merko&count_private=true&card_width=350">
+  </a>
+</p>
+
+<p align='center'>
   <a href="https://www.linkedin.com/in/douglas-peron-32599118a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
