@@ -16,7 +16,7 @@
 
 <p align='center'>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=DougPeron&show_icons=true&theme=merko&count_private=true&card_width=350">
+    <img src="https://github-readme-stats.vercel.app/api?username=DougPeron&show_icons=true&theme=apprentice&count_private=true&card_width=350">
   </a>
 </p>
 <p align='center'>
