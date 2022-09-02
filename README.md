@@ -13,12 +13,15 @@
 <p align= 'center'>
   🎓2ª Graduação em Analise e Desenvolvimente do sistemas;
 </p>
-<p align= 'center'>
-  <a href="https://dougperon.github.io/">PORTIFÓLIO EM CONTRUÇÃO AQUI!</a>
-</p>
+
 <p align='center'>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=DougPeron&show_icons=true&theme=merko&count_private=true&card_width=350">
+  </a>
+</p>
+<p align='center'>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougPeron&layout=compact&card_width=350">
   </a>
 </p>
 
@@ -29,4 +32,7 @@
   <a href="https://discord.gg/4VaybHxP">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+</p>
+<p align= 'center'>
+  <a href="#">PORTIFÓLIO EM CONTRUÇÃO!</a>
 </p>
