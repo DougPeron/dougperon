@@ -8,11 +8,11 @@
   💼Atualmente trabalho com contabilidade mas procurando migração para área de programação.
 </p>
 <p align= 'center'>
-  🎓1ª Graduação em Ciências Contabéis;
+  🎓 Analista de sistemas;
+  -  Especialista em desenvolvimento web React.JS,
+  -  
 </p>
-<p align= 'center'>
-  🎓2ª Graduação em Analise e Desenvolvimente do sistemas;
-</p>
+
 
 <p align='center'>
   <a href="#">
