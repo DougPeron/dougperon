@@ -34,5 +34,5 @@
   </a>
 </p>
 <p align= 'center'>
-  <a href="https://dpweb.dev.br/">PORTIFÓLIO</a>
+  <a href="https://dpweb.dev.br/" target"blank">PORTIFÓLIO</a>
 </p>
