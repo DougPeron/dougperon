@@ -9,8 +9,8 @@
 </p>
 <p align= 'center'>
   🎓 Analista de sistemas;
-  -  Especialista em desenvolvimento web React.JS,
-  -  
+  -  Especialista em desenvolvimento web.
+
 </p>
 
 
