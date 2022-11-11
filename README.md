@@ -10,6 +10,7 @@
 <p align= 'center'>
   🎓 Analista de sistemas;
   -  Me especializando em desenvolvimento web com React.js.
+  -  Em breve React-Native.
 
 </p>
 
