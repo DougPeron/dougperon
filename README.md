@@ -1,15 +1,15 @@
 <h1 align= 'center'>
-  ☕ Fala Galera, aqui é o Douglas 👋
+  ☕ Fala Galera, me chamo Douglas 👋
 </h1>
 <p align= 'center'>
   💻Apaixonado por programação💙
 </p>
 <p align= 'center'>
-  💼Atualmente trabalho com contabilidade mas procurando migração para área de programação.
+  💼Trabalho com contabilidade atualmente mas procurando migração para área de programação.
 </p>
 <p align= 'center'>
   🎓 Analista de sistemas;
-  -  Especialista em desenvolvimento web.
+  -  Me especializando em desenvolvimento web com React.js.
 
 </p>
 
